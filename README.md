@@ -3,6 +3,9 @@
 📌 Project Overview
 
 This project focuses on analyzing Swiggy sales data to derive insights into revenue, order trends, customer behavior, and restaurant performance. The analysis is conducted using Power BI, enabling interactive visualizations and data-driven decision-making.
+
+
+
 📊 Key Features
 
 Revenue Analysis: Breakdown of total sales, average order value, and revenue trends.
@@ -12,20 +15,21 @@ Restaurant Performance: Evaluating top-performing restaurants based on order vol
 Interactive Dashboard: User-friendly visualizations for better interpretation of sales performance.
 
 
+
 📂 Dataset
 
 The dataset includes:
 
-ID	
-Area	
-City	
-Restaurant	
-Price	
-Avg ratings	
-Total ratings	
-food type	
-Address	
-Delivery time
+ID	,
+Area	,
+City	,
+Restaurant	,
+Price	,
+Avg ratings	,
+Total ratings	,
+food type	,
+Address	,
+Delivery time,
 
 
 🛠️ Tools & Technologies Used

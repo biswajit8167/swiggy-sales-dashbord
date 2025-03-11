@@ -10,6 +10,8 @@ Revenue Analysis: Breakdown of total sales, average order value, and revenue tre
 Order Trends: Analysis of peak ordering times, most popular days, and seasonal trends.
 Restaurant Performance: Evaluating top-performing restaurants based on order volume and revenue.
 Interactive Dashboard: User-friendly visualizations for better interpretation of sales performance.
+
+
 📂 Dataset
 
 The dataset includes:
@@ -24,10 +26,14 @@ Total ratings
 food type	
 Address	
 Delivery time
+
+
 🛠️ Tools & Technologies Used
 
 Power BI - For data visualization and dashboard creation
 Excel/CSV - For raw data storage and preprocessing
+
+
 📈 Insights & Findings
 
 The highest number of orders occur during weekends and peak dinner hours.
